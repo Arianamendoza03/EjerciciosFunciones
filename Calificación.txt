@@ -1,0 +1,4 @@
+De acuerdo con su solución, el for no es necesario para activar/desactivar los checkbox
+Utilice nombre significativos para los formularios
+Falta el código para encerar los checkbox(desactivar checkbox)
+Calificación: 2.6/3.0
